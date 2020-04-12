@@ -1,0 +1,20 @@
+h1,
+h2 {
+    text-align: center;
+    color: white;
+}
+h2{
+    color: black;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
